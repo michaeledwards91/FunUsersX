@@ -1,0 +1,25 @@
+{
+  "name": "fun-users-x",
+  "version": "1.0.0",
+  "description": "fun with users... x",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeledwards91/FunUsersX.git"
+  },
+  "author": "Michael Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeledwards91/FunUsersX/issues"
+  },
+  "homepage": "https://github.com/michaeledwards91/FunUsersX#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.8.5"
+  }
+}
